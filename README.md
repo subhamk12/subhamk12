@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @subhamk12
-- 👀 I’m interested in Web Dev, CP, Mathematics, Football, Cooking and much more. 
-- 🌱 I’m currently learning Javscript.
+- 👋 Hi, I’m @subhamk12, a Maths undergrad at IIT Delhi.
+- 👀 I’m interested in Machine Learning, WebDev, CP, Math and WebDesign. 
+- 🌱 I’m currently learning about Neural Networks.
 - 📫 You can reach me at godfathersub1729@gmail.com
 
 <!---
